@@ -37,56 +37,33 @@ email_address                             : funapp.app@gmail.com
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
-    fontawesome_icon_name                 : magic
+  - title                                 : 近くの営業中の飲食店が一目でわかる
+    description                           : 現在位置を利用し、HotPepperに掲載されている、近くで営業中の飲食店を一覧表示します。まだ開いているお店が一目でわかるので、二次会のお店探しに便利です。
+    fontawesome_icon_name                 : clock
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name                 : mobile
+  - title                                 : 残りの営業時間や現在地からの距離も表示
+    description                           : あと何時間営業しているのか、現在地からの距離など、お店選びに役立つ情報を掲載しています。
+    fontawesome_icon_name                 : circle-info
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
+  - title                                 : おすすめのメニューや予算も簡単にチェック
+    description                           : 店舗詳細画面では、ジャンル、イチ押し商品、カード使用可否などが確認できます。
+    fontawesome_icon_name                 : utensils
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : sync
+  - title                                 : お店の場所をマップで確認
+    description                           : お店の情報とともに、マップを表示できるので、迷うことなくお店に行けます。
+    fontawesome_icon_name                 : map-location-dot
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : adjust
-  
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : star
-
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
-
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : link
-
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
-
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
 
 
 
 # Theme Settings
-topbar_color                              : "#000000"
+topbar_color                              : "#d0111b"
 topbar_transparency                       : 0.1
 topbar_title_color                        : "#ffffff"
 
 cover_image                               : assets/headerimage.png                    # Replace with alternative image path or image URL.
-cover_overlay_color                       : "#363b3d"
-cover_overlay_transparency                : 0.8
+# cover_overlay_color                       : "#363b3d"
+# cover_overlay_transparency                : 0.8
 
 device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
 
