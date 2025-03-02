@@ -6,14 +6,15 @@ page_title                                : "二次会サーチ - 今、営業�
 # ios_app_country                           : us                                        # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
-playstore_link                            :                                           # Enter Google Play Store URL.
+playstore_link                            : https://play.google.com/store/apps/details?id=com.codewithandrea.flutter_tips_and_tricks&hl=ja                                           # Enter Google Play Store URL.
 # presskit_download_link                    : https://emilbaehr.com                                          # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  :  assets/icon_ios.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : 二次会サーチ                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_price                                 : 0                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : 今、営業中のお店を探すアプリ
+app_price                                 : 「二次会いこ！」「近くに開いてる店あるかな？」
+本アプリは、今、営業中の近くの飲食店を表示するアプリです。                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_description                           : 
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
