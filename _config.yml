@@ -13,7 +13,7 @@ playstore_link                            : https://play.google.com/store/apps/d
 app_icon                                  :  assets/icon_ios.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : 二次会サーチ                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : 今、営業中のお店を探すアプリ                                    # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : "「二次会いこ！」「近くに開いてる店あるかな？\n本アプリは、今、営業中の近くの飲食店を表示するアプリです。"
+app_description                           : "「二次会いこ！」「近くに開いてる店あるかな？　　　　　本アプリは、今、営業中の近くの飲食店を表示するアプリです。"
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -56,8 +56,8 @@ features                                  :
 
 
 # Theme Settings
-topbar_color                              : "#d0111b"
-topbar_transparency                       : 0.1
+topbar_color                              : "#FF4D56"
+topbar_transparency                       : 0.6
 topbar_title_color                        : "#ffffff"
 
 cover_image                               : assets/headerimage.png                    # Replace with alternative image path or image URL.
