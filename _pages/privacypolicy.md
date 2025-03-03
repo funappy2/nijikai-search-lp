@@ -1,60 +1,61 @@
 ---
 layout: page
-title: Privacy Policy
+title: プライバシーポリシー
 include_in_header: false
 ---
 
 **Last updated**  
-August 1 2019
+March 3 2025
 
 # Privacy Policy
-Submissive a when owing much far bawdy thanks impolitely alas overlaid one and this one chuckled darn on more due much misheard amused far far the much purposeful that wildebeest dalmatian and piranha bluebird this and much despite however much sincere nonsensical this paradoxically more.
+このプライバシーポリシーは、funappy_app（以下「サービスプロバイダー」）が無料サービスとして作成したモバイルデバイス用の二次会サーチアプリ（以下「アプリケーション」）に適用されます。このサービスは「現状のまま」の使用を意図しています。
 
-**Please note:** This is purely a dummy Privacy Policy that serves as an example for how you can use this app landing page generator. Please replace the contents with your own privacy policy.
+**情報の収集と使用**
 
-<br>
+アプリケーションは、使用時に情報を収集します。この情報には、次のような情報が含まれる場合があります。
 
-## 1.0 Information We Collect
-Far near but lighted walking far oyster hello kneeled flung and roadrunner and more witless narrowly flexed brokenly blandly much in famous jeez obsessive that.
+* デバイスのインターネットプロトコルアドレス（例：IPアドレス）
+* アプリケーションの訪問ページ、訪問日時、それらのページで費やした時間
+* アプリケーションに費やした時間
+* モバイルデバイスで使用しているオペレーティングシステム
 
-### 1.1 Information from third parties
-- Ouch until smirked some some newt that at frustrating.
-- Nimbly handsomely fabulously python.
-- Alas informally taped when a dear some.
+アプリケーションは、デバイスの位置情報を収集します。これにより、サービスプロバイダーは、おおよその地理的位置を特定し、以下の方法で利用することができます。
 
-### 1.2 Information you provide to us 
-Menacingly much walrus far together derisive falcon the toneless unceremoniously yet yikes a hung when because far drooled cast amused naughtily quiet hare a thickly more dogged drank more this dismounted since hence nakedly jeez rolled far gerbil the hey puerilely where vociferously struck insane much twitched instead some beneath then wiped dull snuffed far jeez nightingale bit goodness obscurely quit that much yet nefarious careless some concrete shrewdly gull closed this hugged aboard.
+* ジオロケーションサービス：サービスプロバイダーは、位置データを使用して、パーソナライズされたコンテンツ、関連する推奨事項、位置情報に基づくサービスなどの機能を提供します。
+* 分析と改善: 集約され匿名化された位置データは、サービス プロバイダーがユーザーの行動を分析し、傾向を特定し、アプリケーションの全体的なパフォーマンスと機能を向上させるのに役立ちます。
+* サードパーティ サービス: サービス プロバイダーは定期的に、匿名化された位置データを外部サービスに送信することがあります。これらのサービスは、アプリケーションの強化と提供内容の最適化に役立ちます。
 
-<br>
+サービス プロバイダーは、お客様が提供した情報を使用して、重要な情報、必要な通知、マーケティング プロモーションをお客様に随時提供するために連絡を取ることがあります。
 
-## 2.0 What Personal Information we collect about you and how we collect it
-Where cut one reproachful alas ambiguous helpful hen raucous editorial underwrote dubiously therefore this boastfully or possessively oh modest amidst some opposite far wasp grew emu snickered some jeepers and circa much that *equitable* foul camel caudally oh opossum far dear met far much close hello beheld facetious far goodness tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming or well approving sympathetically groundhog mongoose and deeply peaceful wow ouch far regally this and near and badly fatal blunt mischievously and and the blew.
+より良い体験を提供するために、アプリケーションの使用中に、サービス プロバイダーはお客様に特定の個人を特定できる情報を提供するよう要求する場合があります。サービス プロバイダーが要求する情報は、サービス プロバイダーによって保持され、このプライバシー ポリシーに記載されているように使用されます。
 
-### 2.1 Third Parties we collect information from
-Various remotely save this querulously explicitly one this and far congenially broad grew said or abhorrently haltered darn beheld panther shrank and one goldfish the more away as much different moth.
+**外部サービスによるアクセス**
 
-| Third Party | What is it used for? |
-| :--- | :--- |
-| Falcon | Tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming. |
-| Eagle | Juggled crud a however overslept vehemently kept indisputably anteater walked alas or into. |
+集約され匿名化されたデータのみが、サービスプロバイダーがアプリケーションとそのサービスを改善するのに役立つように、定期的に外部サービスに送信されます。サービスプロバイダーは、このプライバシーポリシーに記載されている方法で、お客様の情報を外部サービスと共有する場合があります。
 
-<br>
+アプリケーションは、データの取り扱いについて独自のプライバシーポリシーを持つ外部サービスを利用していることにご注意ください。アプリケーションが使用する外部サービスのプライバシーポリシーへのリンクを以下に示します。
 
-## 3.0 What rights do you, as the data subject, have
-This goodness well well and more cowardly lynx credibly more apart save and less oh examined ouch marginal growled and proper liberally salmon busy some while pointed far because understood.
+* [Google Play Services](https://www.google.com/policies/privacy/)
+* [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
 
-1. Boastfully or possessively oh modest amidst.
-2. Far far the much purposeful that wildebeest dalmatian.
-3. Adamant or pushed less far overthrew.
+サービスプロバイダーは、ユーザー提供情報および自動収集情報を次の場合に開示する場合があります。
 
-All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+* 召喚状や同様の法的手続きに従うなど、法律で義務付けられている場合。
+* 権利の保護、ユーザーまたは他者の安全の保護、詐欺の調査、または政府の要請への対応に開示が必要であると判断した場合。
+* 代理で業務を行い、当社が開示した情報を独自に使用することはなく、このプライバシーポリシーに定められた規則を遵守することに同意している、信頼できる外部サービスに開示する場合。
 
-<br>
+**オプトアウト権**
 
-## 4.0 How we store and secure the Personal Information we collect
-Worm where gravely behind logically far in tastefully as alas delicately before well darn then far the much pulled red-handed circa much much far pangolin spelled much clung dachshund smirked close some the adamant or pushed less far overthrew in moth begrudging warthog newt pragmatic bent darn and far needlessly notwithstanding angrily as celestially horse rebuking magnanimous dear inscrutably jeepers listless before saucy this much however and wolf dear cringed crab a wanton jeepers flatteringly characteristically a atrocious and returned more lemming robin let some crud that more secure nimble where soundly pitiful because bombastic much.
+アプリケーションをアンインストールすることで、アプリケーションによるすべての情報収集を簡単に停止できます。モバイルデバイスの一部として、またはアプリストアやネットワーク経由で利用できる標準的なアンインストール方法を使用できます。
 
-<br>
+**データ保持ポリシー**
 
-## 5.0 Information processing and transfers for EEA individuals
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh.
+サービスプロバイダーは、アプリケーションを使用している間のみ一時的にユーザー提供データを保持します。
+
+**セキュリティ**
+
+サービスプロバイダーは、お客様の情報の機密性を保護することに配慮しています。サービスプロバイダーは、サービスプロバイダーが処理および維持する情報を保護するために、物理的、電子的、および手続き的な保護手段を提供します。
+
+**変更**
+
+このプライバシーポリシーは、理由を問わず随時更新される場合があります。サービスプロバイダーは、このページを新しいプライバシー ポリシーで更新することにより、プライバシーポリシーの変更をお客様に通知します。変更については、このプライバシーポリシーを定期的に確認することをお勧めします。
