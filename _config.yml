@@ -13,9 +13,7 @@ playstore_link                            : https://play.google.com/store/apps/d
 app_icon                                  :  assets/icon_ios.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : 二次会サーチ                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : 今、営業中のお店を探すアプリ                                    # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : |-
-  「二次会いこ！」「近くに開いてる店あるかな？」 
-  本アプリは、今、営業中の近くの飲食店を表示するアプリです。 
+app_description                           : "「二次会いこ！」「近くに開いてる店あるかな？\n本アプリは、今、営業中の近くの飲食店を表示するアプリです。"
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -44,7 +42,7 @@ features                                  :
     
   - title                                 : 残りの営業時間や現在地からの距離も表示
     description                           : あと何時間営業しているのか、現在地からの距離など、お店選びに役立つ情報を掲載しています。
-    fontawesome_icon_name                 : circle-info
+    fontawesome_icon_name                 : info
 
   - title                                 : おすすめのメニューや予算も簡単にチェック
     description                           : 店舗詳細画面では、ジャンル、イチ押し商品、カード使用可否などが確認できます。
@@ -52,7 +50,7 @@ features                                  :
 
   - title                                 : お店の場所をマップで確認
     description                           : お店の情報とともに、マップを表示できるので、迷うことなくお店に行けます。
-    fontawesome_icon_name                 : map-location-dot
+    fontawesome_icon_name                 : map
 
 
 
@@ -63,10 +61,10 @@ topbar_transparency                       : 0.1
 topbar_title_color                        : "#ffffff"
 
 cover_image                               : assets/headerimage.png                    # Replace with alternative image path or image URL.
-cover_overlay_color                       : "#363b3d"
+cover_overlay_color                       : "#d0111b"
 cover_overlay_transparency                : 0.8
 
-device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
+device_color                              : white                                     # Set to: blue, black, yellow, coral or white.
 
 body_background_color                     : "#ffffff"
 
